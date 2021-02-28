@@ -1,0 +1,302 @@
+<!doctype html>
+<head>
+<meta charset="utf-8"/>
+<title>All About Cricket</title>
+<style>
+p{
+text-align:justify;
+font-size:large;
+}
+h1{
+text-align:Center;
+font-size:xx-large;
+color:Brown;
+}
+#contianer{
+                margin:0px auto 0px auto;
+}
+h2{
+font-size:x-large;
+color:red;
+}
+body{
+font-size:24px;
+font-family:arial,helvetica,san-serif;
+background-color:honeydew;
+margin:0 auto;
+width:1850px;
+}
+ul{
+list-style-image:url("bullet.JPG");
+}
+a:link,a:visited{
+text-decoration:none;
+color:green;
+}
+a:hover{
+color:orange;
+}
+nav ul{
+list-style-type:none;
+padding:0;
+}
+nav li{
+display:inline;
+float:left;
+}
+nav a:link, nav a:visited{
+background-color:brown;
+color:white;
+display:block;
+width:370px;
+text-align:center;
+padding:10px 0;
+}
+nav a:hover{
+background-color:red;
+color:white;
+}
+header{
+background-image:url("cc.jpg");
+height:100px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>.</h1>
+<nav>
+<ul>
+<li><a href="MyIndex.html">Home</a></li>
+<li><a href="cricket-info.html">More about Cricket</a></li>
+<li><a href="bat-info.html">More about Batting</a></li>
+<li><a href="bowl-info.html">More about Bowling</a></li>
+<li><a href="field-info.html">More about Fielding</a></li>
+</ul>
+</nav>
+</header>
+
+<br><br><h2>Quick access</h2>
+<ul>
+<li><a href="#1">Batting</a></li>
+<li><a href="#2">Bowling</a></li>
+<li><a href="#3">Fielding</a></li>
+</ul>
+
+<p><h1>All About Cricket</h1></p>
+<section>
+<img src="im.JPG" alt="Image of a bat and a ball" width="500" Height="332"/>
+
+
+<p>Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 20-metre (22-yard) pitch with a wicket at each end, each comprising two bails balanced on three stumps. The batting side scores runs by striking the ball bowled at the wicket with the bat, while the bowling and fielding side tries to prevent this and dismiss each player (so they are "out"). Means of dismissal include being bowled, when the ball hits the stumps and dislodges the bails, and by the fielding side catching the ball after it is hit by the bat, but before it hits the ground. When ten players have been dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, aided by a third umpire and match referee in international matches. They communicate with two off-field scorers who record the match's statistical information.</p>
+
+<p>There are various formats ranging from Twenty20, played over a few hours with each team batting for a single innings of 20 overs, to Test matches, played over five days with unlimited overs and the teams each batting for two innings of unlimited length. Traditionally cricketers play in all-white kit, but in limited overs cricket they wear club or team colours. In addition to the basic kit, some players wear protective gear to prevent injury caused by the ball, which is a hard, solid spheroid made of compressed leather with a slightly raised sewn seam enclosing a cork core which is layered with tightly wound string.</p>
+
+<p>Historically, cricket's origins are uncertain and the earliest definite reference is in south-east England in the middle of the 16th century. It spread globally with the expansion of the British Empire, leading to the first international matches in the second half of the 19th century. The game's governing body is the International Cricket Council (ICC), which has over 100 members, twelve of which are full members who play Test matches. The game's rules are held in a code called the Laws of Cricket which is owned and maintained by Marylebone Cricket Club (MCC) in London. The sport is followed primarily in the Indian subcontinent, Australasia, the United Kingdom, southern Africa and the West Indies, its globalisation occurring during the expansion of the British Empire and remaining popular into the 21st century.[1] Women's cricket, which is organised and played separately, has also achieved international standard. The most successful side playing international cricket is Australia, which has won seven One Day International trophies, including five World Cups, more than any other country and has been the top-rated Test side more than any other country.</p>
+
+
+<p><a href="https://en.wikipedia.org/wiki/Cricket" target="_blank">Wikipedia Link</a></p>
+
+<strong>Cricket has three major aspects:</strong>
+<ul>
+<li>Batting</li>
+<li>Bowling</li>
+<li>Fielding</li>
+</ul>
+
+
+<br><h1 id="1">Batting</h1>
+<section>
+<figure> 
+<img src="bat.JPG" width="650" Height="487"/>
+<figcaption><em>Batting Stance</em></figcaption>
+</figure>
+
+<p>In cricket, batting is the act or skill of hitting the ball with a bat to score runs or prevent the loss of one's wicket. Any player who is currently batting is denoted as a batsman, batswoman, or batter, regardless of whether batting is their particular area of expertise. Batting players have to adapt to various conditions when playing on different cricket pitches, especially in different countries - therefore, as well as having outstanding physical batting skills, top-level batters will have lightning reflexes, excellent decision-making and be good strategists.</p>
+
+<p>During an innings two members of the batting side are on the pitch at any time: the one facing the current delivery from the bowler is denoted the striker, while the other is the non-striker. When a batting player is out, they are replaced by a teammate. This continues until the end of the innings, which is often when 10 of the team members are out, whereupon the other team gets a turn to bat.</p>
+
+<p>Batting tactics and strategy vary depending on the type of match being played as well as the current state of play. The main concerns for the batting players are not to lose their wicket and to score as many runs as quickly as possible. These objectives generally conflict – to score quickly, risky shots must be played, increasing the chance that the batting player will be dismissed, while the batting player's safest choice with a careful wicket-guarding stroke may be not to attempt any runs at all. Depending on the situation, batting players may abandon attempts at run-scoring in an effort to preserve their wicket, or may attempt to score runs as quickly as possible with scant concern for the possibility of being dismissed.</p>
+
+<p>As with all other cricket statistics, batting statistics and records are given much attention and provide a measure of a player's effectiveness. The main statistic for batting is a player's batting average. This is calculated by dividing the number of runs they have scored, not by the innings they have played, but by the number of times they have been dismissed.</p>
+</section>
+
+<strong>The 5 popular types of batting styles are:</strong>
+<ul>
+<li>Leave</li>
+<li>Pull shot</li>
+<li>Drive shot</li> 
+<li>Flick shot</li>
+<li>Cut shot</li>
+</ul>
+
+<br><section>
+<h2>Leave</h2>
+<figure> 
+<img src="leave.JPG" width="550" Height="501"/>
+<figcaption><em>Rahul Dravid leave</em></figcaption>
+</figure>
+
+<p>The leave is sometimes considered a cricket shot, even though the batting player physically does not play at or interfere with the ball as it passes them. The leave is likely to be used by a batting player during the first few balls they receive, to give themselves time to judge the conditions of the pitch and the bowling before attempting to play a shot. Leaving a delivery is a matter of judgment and technique. The batting player still has to watch the ball closely to ensure that it will not hit them or the wicket; they also have to ensure that their bat and hands are kept out of the path of the ball so that it cannot make accidental contact and possibly lead to them being out caught. Batting players only leave the ball when they are certain that it will not hit the stumps.</p>
+</section>
+
+<br><section>
+<h2>Pull</h2>
+<figure> 
+<img src="pull.JPG" width="650" Height="481"/>
+<figcaption><em>Ricky Ponting and Rohit Sharma pull shot</em></figcaption>
+</figure>
+
+<p>A pull is a cross-batted shot played to a ball bouncing around waist height by swinging the bat in a horizontal arc in front of the body, pulling it around to the leg side towards mid-wicket or square leg. The term hook shot is used when the shot is played against a ball bouncing at or above chest high to the batting player, the batting player thus "hooking" the ball around behind square leg, either along the ground or in the air. Pull and hook shots can be played off the front or back foot, with the back foot being more typical.</p>
+</section>
+
+<br><section>
+<h2>Drive</h2>
+<figure> 
+<img src="drive.JPG" width="640" Height="400"/>
+<figcaption><em>Virat Kohli drive shot</em></figcaption>
+</figure>
+
+<p>A drive is a straight-batted shot, played by swinging the bat in a vertical arc through the line of the ball, hitting the ball in front of the batting player along the ground. It is one of the most common shots in a batting player's armory and often the first shot taught to junior cricketers. Depending on the direction the ball travels, a drive can be a cover drive (struck towards the cover fielding position), an off drive (towards mid-off), straight drive (straight past the bowler), on drive (between stumps and mid-on) or square drive (towards point). A drive can also be played towards midwicket, although the phrase "midwicket drive" is not in common usage. Drives can be played both off the front and the back foot, but back-foot drives are harder to force through the line of the ball. Although most drives are deliberately struck along the ground to reduce the risk of being dismissed caught, a batting player may decide to play a lofted drive to hit the ball over the infielders and potentially even over the boundary for six.</p>
+</section>
+
+<br><section>
+<h2>Flick</h2>
+<figure> 
+<img src="flick.JPG" width="630" Height="450"/>
+<figcaption><em>Sachin Tendulkar flick shot</em></figcaption>
+</figure>
+
+<p>A flick shot is a straight-batted shot played on the leg side by flicking a full-length delivery using the wrists. It is often also called the clip off the legs. The shot is playing with the bat coming through straight as for the on drive, but the bat face is angled towards the leg side. It can be played both off the front foot or the back foot, either off the toes or from the hips. The shot is played between the mid-on and square leg region. Typically played along the ground, the flick can also be played by lofting the ball over the infield.</p>
+</section>
+
+<br><section>
+<h2>Cut</h2>
+<figure> 
+<img src="cut.JPG" width="550" Height="526"/>
+<figcaption><em>Virender Sehwag cut shot</em></figcaption>
+</figure>
+
+<p>A cut is a cross-batted shot played at a short-pitched ball, placing it wide on the off side. The batting player makes contact with the ball as it draws alongside or passes them and therefore requires virtually no effort on their part as they uses the bowler's pace to divert the ball. A square cut is a shot hit into the off side at near to 90 degrees from the wicket (towards point). A late cut is played as or after the ball passes the batting player's body and is hit towards the third man position. The cut shot is typically played off the back foot but is also sometimes played off the front foot against slower bowling. The cut should be played with the face of the bat rolling over the ball to face the ground thus pushing the ball downwards. A mistimed cut with an open-faced bat (with the face of the bat facing the bowler) will generally lead to the ball rising in the air, giving a chance for the batting player to be caught</p>
+</section>
+ 
+
+<br><h1 id="2">Bowling</h1>
+<section>
+<figure>
+<img src="bowl.PNG" width="500" height="375"/>
+<figcaption><em>Fast bowler bowling action</em></figcaption>
+</figure>
+
+<p>Bowling, in cricket, is the action of propelling the ball toward the wicket defended by a batter. A player skilled at bowling is called a bowler; a bowler who is also a competent batter is known as an all-rounder. Bowling the ball is distinguished from throwing the ball by a strictly specified biomechanical definition, which restricts the angle of extension of the elbow. A single act of bowling the ball towards the batsman is called a ball or a delivery. Bowlers bowl deliveries in sets of six, called an over. Once a bowler has bowled an over, a teammate will bowl an over from the other end of the pitch. The Laws of Cricket govern how a ball must be bowled.[1] If a ball is bowled illegally, an umpire will rule it a no-ball.[2] If a ball is bowled too wide of the striker for the batsman to be able to play at it with a proper cricket shot, the bowler's end umpire will rule it a wide.</p>
+
+<p>There are different types of bowlers, from fast bowlers, whose primary weapon is pace, through swing and seam bowlers who try to make the ball deviate in its course through the air or when it bounces, to slow bowlers, who will attempt to deceive the batter with a variety of flight and spin. A spin bowler usually delivers the ball quite slowly and puts spin on the ball, causing it to turn at an angle while bouncing off the pitch.</p>
+</section>
+
+<strong>There are two types of tactics for bowling:</strong>
+<ul>
+<li>Line and Length</li>
+<li>Pace and Movement</li>
+</ul>
+
+<br><section>
+<h2>line and length</h2>
+<figure> 
+<img src="line-and-length.JPG" width="800" Height="321"/>
+<figcaption><em>Pitch Map</em></figcaption>
+</figure>
+
+<p>The fundamental skill of bowling on a good length incorporates the ability to pitch the ball such a distance from the batsman that he is unable to move forward and drive the ball on the half volley, and is also unable to step back and play the ball on the back foot. This removes many of the batsman's attacking options, and also increases the probability of him misjudging a delivery and losing his wicket. A good length delivery is one in which the ball has had sufficient time to move far enough off the pitch to beat the bat but the batsman has not had time to react to the movement and adjust his shot. The faster the bowler and the greater the movement he is able to generate, the larger the area of the pitch that can be designated an effective "good" length.</p>
+
+<p>Other areas of the pitch may also often be used as a variation to a good length delivery. Primarily these are the yorker, in which the ball is bowled directly at the batsman's feet as a surprise delivery intended to dismiss the batsman bowled, and the bouncer in which the ball is bowled on such a short length that it rises towards the batsman's throat or head as a means of physical intimidation. But the height of an attempted yorker or full toss must not be higher than the batsman's waist, or else it will be called a no-ball beamer, which could have bowlers banned from the match.</p>
+
+<p>The line a bowler chooses to bowl will depend on several factors: the movement he is generating on the ball, the shots the batsman is able to play, and the field the captain has set. The two most common tactics are to either bowl directly at the stumps, or to bowl 3 inches to 6 inches outside the line of off stump. Bowling at the stumps is an attacking tactic with the intention of dismissing the batsman bowled or lbw. It can also be used as a defensive tactic, as the batsman will feel less able to play risky shots knowing that he will be dismissed should he miss the ball. Bowling outside off stump is known as the corridor of uncertainty. When done well, this line may confuse the batsman into whether to defend the ball or leave it, and may tempt him to play away from his body with his head not in line with the ball. The main aim of this tactic is to dismiss the batman caught by the wicketkeeper or in the slips. Other bowling variations, such as bowling wide of off stump or bowling at leg stump are generally seen as negative and defensive tactics.</p>
+</section>
+
+<br><section>
+<h2>Pace and movement</h2>
+<figure> 
+<img src="pace-and-movement.PNG" width="800" Height="740"/>
+<figcaption><em>Bowling graphics</em></figcaption>
+</figure>
+
+<p>Other than the ability to land the ball on a strategically optimum line and length, the main weapons of the bowler are his ability to move the ball sideways as it approaches the batsman and his ability to deliver the ball at a high velocity.</p>
+
+<p>The velocities of cricket bowlers vary between 40 and 100 mph (64 and 161 km/h). In professional cricket, a bowler in the 40–60 mph range would be said to be a slow bowler, in the 60–80 mph range a medium pace bowler, and a bowler 80 mph+ a fast bowler. In the amateur game, these distinctions would be approximately 10 mph slower. Many professional fast bowlers are able to reach speeds of over 85 mph, with a handful of bowlers in the world able to bowl at 95 mph+. The ability to react to a cricket ball travelling at 85 mph is a skill that only professional and high level amateur cricketers possess. The pace of a bowler not only challenges the reaction speed of the batsman, but also his physical courage. Fast bowlers are able to exploit this by bowling bouncers, either regularly or as an occasional surprise delivery.</p>
+
+<p>Bowlers are also able to get the ball to move sideways by using either spin or swing. Adding a spin to a cricket ball will make it deviate due to the Magnus effect in its flight, and then produce sideways movement off the ground. Swing is obtained by using air pressure differences caused by angling the seam of the cricket ball to produce a lateral movement in the air. Fast bowlers will generally only use swing to obtain movement, but medium pace and slow bowlers will often use a combination of the two. The intention is that in creating movement in the delivery, the batsman will misjudge the line of the ball as it arrives, causing him to miss it entirely, in which case he may be dismissed bowled or lbw, or miss-hit it, in which case he may be out caught.</p>
+
+<p>In order to avoid becoming predictable, a bowler will typically bowl a variety of different deliveries with different combinations of pace and movement. A tactically astute bowler may be able to spot a potential weakness in a batsman that a particular delivery may be able to exploit. Bowlers will often also bowl deliveries in preplanned sets, with the intention of dismissing the batsman with the final delivery in the set. This is known as "setting a trap" for the batsman. Batsmen and bowlers will often also engage in a game of "cat and mouse", in which the bowler varies his tactics in order to try and trap and dismiss the batsman, but the batsman also keeps adjusting his tactics in response.</p>
+</section>
+
+<strong>There are 3 types of major bowling styles:</strong>
+<ul>
+<li>Seam Bowling</li> 
+<li>Swing Bowling</li> 
+<li>Spin Bowling</li>
+</ul>
+
+<br><section> 
+<h2>Seam Bowling</h2>
+<figure> 
+<img src="seam.JPG" width="219" Height="180"/>
+<figcaption><em>Ball seam</em></figcaption>
+</figure>
+
+<p>A cricket ball is not a perfect sphere. The seam of the ball is the circular stitching which joins the two halves of the cricket ball. Hence, the seam joining the pieces of leather is circumferential and the stitching is noticeably raised. If the ball is bowled in such a way that the seam hits the pitch when it bounces, this irregularity can cause the ball to deviate sideways in its path. It may move in any direction, or just go straight. The batsman has to see how the ball moves after pitching to select his shot.</p>
+
+<p>In order to achieve this effect, a seam bowler usually delivers the ball with the seam held upright, with rotation about a horizontal axis.[1] This keeps the seam aligned vertically as it travels towards the batsman, making it likely that the ball will bounce with the seam on the pitch. Consistently hitting the seam is not as easy as it sounds. The seam has to be held upright between the index finger and the middle finger at the time of the delivery of the ball and, most importantly, the wrist has to be dead straight when the ball is delivered."The seam and wrist position of Australia's Glenn McGrath are arguably a perfect example".</p>
+
+<p>The direction and degree of deviation from a straight path are dependent on the small-scale alignment of the seam and any irregularities in the pitch surface. This means that deviation caused by seam is chaotic and unpredictable.</p>
+
+<p>However, it is also possible, by holding the seam at an angle and rolling the fingers over the surface of the ball, to produce a deliberate off cutter in which the ball veers away from the off side when it bounces on the pitch, or leg cutter in which it veers away from a right-handed batsman. Former Australian bowler Dennis Lillee employed a leg cutter of this sort to considerable effect; however, deliveries of this kind will be slower than if the bowler simply bowls with the seam upright, hoping for movement one way or the other. Some bowlers deliberately use cutters more for their surprise slowness than the deviation off the pitch.</p>
+
+<p>Often the deviation caused by seam is not large enough to cause a batsman significant problems with playing the ball. Occasionally, however, the ball can deviate far enough to hit the edge of the cricket bat instead of the middle, producing a catch for nearby fielders. Swing bowling is a way of getting greater deviation, but is harder to control.</p>
+</section>
+
+<br><section>
+<h2>Swing Bowling</h2>
+<figure> 
+<img src="swing.GIF" width="203" Height="249"/>
+<figcaption><em>How to swing the ball</em></figcaption>
+</figure>
+
+<p>The aim of swing bowling is to cause the ball to move in the air (or 'swing') whilst delivering mainly fast-paced balls to the batsman, in the hope that the change in the ball's flight path will deceive the batsman and cause them to play the ball incorrectly. Swing bowling is not to be confused with spin bowling, which involves bowling slow-pace balls which change direction primarily after making contact with the ground.</p>
+
+<p>Swing bowling involves the use of a newer ball which is only slightly worn. The bowling side will continuously polish one side of the ball by applying saliva and sweat to it as well as rubbing it against their clothing to shine it, whilst leaving the opposite side unshined. The speed of airflow over the rough and smooth sides of the ball will cause the ball to move in-flight towards the rough side and away from the shiny side. Swing bowlers will often use a subtly altered grip on the ball to accentuate this effect.</p>
+
+<p>The two main forms of swing are inswing, where the ball begins wider of the batsman and travels into the batsman's body, angling towards the stumps, and outswing, where the ball begins in line with the stumps but moves so that it is slightly wider of the stumps by the time it reaches the batsman. As the shiny side will also become worn over the course of play, swing bowling is usually effective when the ball is newer, with the older ball being more useful for spin bowling or other forms of fast bowling. However, there are other types of swing, such as reverse swing, which involve using a much more worn ball.</p>
+
+<p>As swing bowling is heavily dependent on the condition of the ball, many ball tampering controversies have been related to it, where teams have tried to illegally alter the wear of the ball to produce additional swing.</p>
+</section>
+
+<br><section>
+<h2>Spin Bowling</h2>
+<figure> 
+<img src="spin.JPG" width="640" Height="640"/>
+<figcaption><em>finger spin and wrist spin</em></figcaption>
+</figure>
+
+<p>Depending on technique, a spin bowler uses either predominant wrist or finger motion to impart spin to the ball around a horizontal axis that is at an oblique angle to the length of the pitch. This sort of spin means it is also possible for the Magnus effect to cause the ball to deviate sideways through the air, before it bounces. Such deviation is called drift.[3] The combination of drift and spin can make the ball's trajectory complex, with a change of direction at the bounce.</p>
+
+<p>Spin bowlers are generally given the task of bowling with an old, worn cricket ball. A new cricket ball better suits the techniques of fast bowling than spin bowling, while a worn one grips the pitch better and achieves greater spin.[1] Spin bowlers are also more effective later in a game, as the pitch dries up and begins to crack and crumble. This again provides more purchase for the spinning ball and produces greater deviation. Spin bowlers that open the bowling are rare, but became a more viable option with the introduction of Twenty20 cricket when pitch conditions are in their favour, and the ball also generally drifts more in the air. Spin bowlers can also be used tactically in shorter forms of the game, to 'take the pace off the ball'. This strategy is especially effective to slow down the scoring rates of batsmen who specialise in making use of the pace of faster bowlers to score runs quickly. The lower inherent momentum of a spin bowler necessitates more power exerted by the batsman to achieve the same results.</p>
+</section>
+
+<br><h1 id="3">Fielding</h1>
+<section>
+<figure> 
+<img src="fielding.JPG" width="742" Height="788"/>
+<figcaption><em>field map (where you can place your fielders on the cricket field)</em></figcaption>
+</figure>
+
+<p>Fielding in the sport of cricket is the action of fielders in collecting the ball after it is struck by the batsman, to limit the number of runs that the batsman scores and/or to get the batsman out by catching the ball in flight or by running the batsman out. There are a number of recognised fielding positions, and they can be categorised into the offside and leg side of the field.</p>
+
+<p>A fielder or fieldsman may field the ball with any part of his body. However, if while the ball is in play he wilfully fields it otherwise (e.g. by using his hat), the ball becomes dead and five penalty runs are awarded to the batting side, unless the ball previously struck a batsman not attempting to hit or avoid the ball. Most of the rules covering fielders are in Law 28 of the Laws of cricket.</p>
+
+<p>Fake fielding is the action caused by a fielder when he makes movements of some of his body parts as if he is fielding only to confuse batsmen into making mistakes. It is now a punishable offence under the new ICC rules.</p>
+
+</section>
+
+</section>
+</body>
+</html>
